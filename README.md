@@ -1,2 +1,2 @@
 # XPathAssertion
-https://github.com/testify/XPathAssertion.git
+An Assertion that performs XPath based checks
